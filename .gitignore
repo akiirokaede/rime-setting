@@ -1,0 +1,11 @@
+*~
+.*~
+/luna_pinyin.userdb/*
+/easy_en.userdb/*
+/hangyl.userdb/*
+/hannomPS.userdb/*
+/japanese.userdb/*
+/terra_pinyin.userdb/*
+/build/*
+/user.yaml
+/installation.yaml
