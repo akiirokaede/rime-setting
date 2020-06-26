@@ -20,7 +20,7 @@
 schema:
   version: '2017.7.13'
   schema_id: &id symbols
-  name: 特殊字符
+  name: 符-特殊字符
   author:
     - Jak Wings #!@Gmail.com
   description: |

@@ -5,6 +5,7 @@ patch:
     - schema: easy_en # 英文
     - schema: japanese # rime-japanese
     - schema: double_pinyin_flypy # 小鹤双拼
+    - schema: morse_code
   switcher/hotkeys:
     - "Control+grave" # 注意是control+`，不是command+`
   switcher/save_options:

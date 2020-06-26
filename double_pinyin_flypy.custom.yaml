@@ -1,6 +1,6 @@
 patch:
   schema/dependencies: {}
-  schema/name: 小鹤双拼
+  schema/name: 鶴-小鶴雙拼
   switches:
     - name: ascii_mode
       reset: 0
