@@ -26,21 +26,26 @@ Rime	rime	3
 ⇧	shift
 GBK	gbk
 UTF-8	utfba
-macOS High Sierra	macos	2
-macOS Mojave	macos	3
-macOS	macos	4
-macOS Sierra	macos	1
+macOS High Sierra	macos	5
+macOS Mojave	macos	4
+macOS	macos	1
+macOS Big Sur	macos	2
+macOS Catalina  macos	3
+macOS Sierra	macos	6
 Google Analytics	ga
 macOS	macos
 Linux	linux
 CSS	css
-HTML html
+HTML	html
 iOS	ios
 iPad	ipad
 iPhone	iphone
 iTunes	itunes
-JavaScript js
-TypeScript ts
+Java	java
+JavaScript	js
+JavaScript	javascript
+TypeScript	ts
+TypeScript	typescript
 jQuery	jquery
 MySQL	mysql
 SQL	sql
@@ -52,12 +57,14 @@ Swift	swift
 MacBook Pro	mbp
 MacBook	macbook
 Apple	apple
-U盘	upj
+U盘	upan
 GitHub	github
 iMac	imac
 iPad	ipad
 iPhone	iphone
 iPod	ipod
+AirPods Pro	airpodspro
+AirPods	airpods
 IPTV	iptv
 IPv4	ipv
 IPv6	ipv
@@ -77,3 +84,14 @@ Mac	mac
 Wi-Fi	wifi
 Apple ID	appleid
 QQ邮箱	qqyzxl
+Python	python
+Ren'Py	renpy
+Dota2	dota
+Steam	steam
+Ubuntu	ubuntu
+Arch Linux	arch
+Gimp	gimp
+Inkscape inkscape
+Blender blender
+LMMS	lmms
+Pitivi	pitivi
